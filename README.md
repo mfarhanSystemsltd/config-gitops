@@ -1,0 +1,2 @@
+# config-gitops
+Gitops repo
